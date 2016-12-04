@@ -11,7 +11,7 @@ int main(){
 
 	fahr = lower;
 
-	/* printf("Fahrenheit\tCelsius\n"); */
+	 printf("%4s\t%7s\n", "Fahr", "Celsius"); 
 
 	while(fahr <= upper){
 
